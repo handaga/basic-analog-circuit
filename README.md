@@ -1,2 +1,2 @@
 # basic-analog-circuit
-basic analog circuit class (T Elektro)
+basic analog circuit course (T Elektro)
